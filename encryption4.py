@@ -16,3 +16,4 @@ for i in range(cols):
         print(s[j], end='')
     print(" ", end='')
         
+        
